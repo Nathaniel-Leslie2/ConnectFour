@@ -41,12 +41,12 @@ main ()
   return 0;
 }
 
-void displayBoard(char board[], int maxRow, int maxCol)
+/*void displayBoard(char board[], int maxRow, int maxCol)
 	{
 		
 
 
-	}
+	}/*
 
 int getMenuChoice (){
   int userOption;
